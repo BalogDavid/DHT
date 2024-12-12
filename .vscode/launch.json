@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "Run Chord P2P",
+        "request": "launch",
+        "mainClass": "Main"
+      }
+    ]
+  }
+  
